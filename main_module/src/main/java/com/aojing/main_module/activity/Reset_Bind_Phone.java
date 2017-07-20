@@ -37,6 +37,7 @@ public class Reset_Bind_Phone extends AppCompatActivity {
     /**
      * 正则表达式验证手机号码
      * */
+    
     private boolean isPhoneNo(String phoneNo){
         Pattern pattern = null;
         Matcher matcher = null;
@@ -89,6 +90,9 @@ public class Reset_Bind_Phone extends AppCompatActivity {
                 if (!et_new_phone.getText().toString().trim().equals("")&&!et_reset_bind_phone_password.getText().toString().trim().equals("")){
                     if (isPhoneNo(et_new_phone.getText().toString().trim())){
                         send();//发送到服务器
+                        if(1 == 1){
+                            Toast.makeText(getApplicationContext(),"hello",Toast.LENGTH_SHORT).show();
+                        }
                     }else {
                         Toast.makeText(getApplicationContext(),"输入手机不正确~",Toast.LENGTH_SHORT).show();
                     }
