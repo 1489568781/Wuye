@@ -91,6 +91,7 @@ public class Reset_Bind_Phone extends AppCompatActivity {
                     if (isPhoneNo(et_new_phone.getText().toString().trim())){
                         send();//发送到服务器
                         if(1 == 1){
+                            System.out.println("change local project!!");
                             Toast.makeText(getApplicationContext(),"hello",Toast.LENGTH_SHORT).show();
                         }
                     }else {
