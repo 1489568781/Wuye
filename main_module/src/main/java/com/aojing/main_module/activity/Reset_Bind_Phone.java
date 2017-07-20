@@ -92,7 +92,7 @@ public class Reset_Bind_Phone extends AppCompatActivity {
                         send();//发送到服务器
                         if(1 == 1){
                             System.out.println("change local project!!");
-                            Toast.makeText(getApplicationContext(),"hello",Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getApplicationContext(),"hello666",Toast.LENGTH_SHORT).show();
                         }
                     }else {
                         Toast.makeText(getApplicationContext(),"输入手机不正确~",Toast.LENGTH_SHORT).show();
