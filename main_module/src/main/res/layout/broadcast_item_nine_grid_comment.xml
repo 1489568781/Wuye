@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorFff"
+    >
+    <LinearLayout
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/main_divide_color"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.aojing.util.CircleImg
+            android:id="@+id/iv_broadcast_comment_head_img"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="5dp"
+            />
+        <LinearLayout
+            android:id="@+id/ll_content"
+            android:paddingLeft="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_toRightOf="@id/iv_broadcast_comment_head_img"
+            >
+            <TextView
+                android:textColor="@color/colorBbb"
+                android:id="@+id/tv_broadcast_comment_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="苏sandy"
+
+                />
+            <TextView
+                android:layout_marginTop="5dp"
+                android:id="@+id/tv_broadcast_comment_content"
+                android:textColor="@color/color333"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="hell~好评akdjaskdjakldjklajncaKjhakdjak空间啊哈打卡机卡时间打可视对讲！！"
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:visibility="gone"
+            android:layout_alignParentRight="true"
+            android:id="@+id/tv_delete_comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="删除"
+            android:textColor="@color/red"
+            />
+    </RelativeLayout>
+
+</LinearLayout>

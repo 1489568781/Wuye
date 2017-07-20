@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/colorF2f2f2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:background="@color/colorFff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="@color/color333"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="社区"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:textSize="@dimen/big"
+            />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_marginTop="90dp"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:textColor="@color/color333"
+            android:text="您需要先绑定房产，才能加入房产所在社区"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:textSize="@dimen/middle"
+            android:gravity="center"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            />
+
+        <Button
+            android:textColor="@color/colorFff"
+            android:id="@+id/community_add_house"
+            android:background="@drawable/shape1"
+            android:layout_marginTop="30dp"
+            android:layout_width="310dp"
+            android:layout_height="41dp"
+            android:text="添加房产绑定"
+            android:textSize="@dimen/big"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            >
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

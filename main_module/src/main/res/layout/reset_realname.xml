@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <RelativeLayout
+        android:background="@color/colorFff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/reset_realName_back"
+            android:textColor="@color/color333"
+            android:paddingRight="@dimen/big"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="＜"
+            android:paddingTop="@dimen/big"
+            android:paddingBottom="@dimen/big"
+            android:paddingLeft="10dp"
+            android:textSize="@dimen/big"
+            />
+        <TextView
+            android:textColor="@color/color333"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="修改姓名"
+            android:paddingTop="@dimen/big"
+            android:paddingBottom="@dimen/big"
+            android:textSize="@dimen/big"
+            />
+
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorCcc"
+        android:layout_marginBottom="15dp"
+        />
+    <TextView
+        android:textColor="@color/color333"
+        android:paddingLeft="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="新姓名："
+        android:layout_marginBottom="5dp"
+        />
+    <utils.ClearEditText
+        android:id="@+id/et_newRealName"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:hint="请输入新姓名"
+        android:paddingLeft="15dp"
+        android:paddingRight="10dp"
+        android:background="@drawable/shape_edt"
+        />
+
+    <Button
+        android:textColor="@color/color333"
+        android:id="@+id/bt_post_reset_realName"
+        android:layout_width="310dp"
+        android:layout_height="41dp"
+        android:background="@drawable/shape1"
+        android:text="确定"
+        android:textSize="@dimen/big"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        />
+
+</LinearLayout>

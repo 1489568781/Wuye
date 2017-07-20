@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    >
+<ImageView
+    android:layout_marginBottom="10dp"
+    android:src="@drawable/success_img"
+    android:layout_gravity="center"
+    android:layout_width="60dp"
+    android:layout_height="60dp" />
+    <TextView
+        android:id="@+id/show_type_name"
+        android:layout_marginBottom="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="登录密码修改成功~"
+        />
+    <Button
+        android:textColor="@color/color333"
+        android:layout_marginBottom="80dp"
+        android:id="@+id/bt_back_home"
+        android:layout_width="280dp"
+        android:layout_height="41dp"
+        android:text="返回主页"
+        />
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff75a6ff</color>
+    <color name="red">#E1423C</color>
+    <color name="translucence">#506050</color>
+    <color name="g">#26c5d9</color>
+    <color name="bg_pay_record_date">#159ce3</color>
+    <color name="bg_gray">#e2e2e2</color>
+    <color name="green">#65e17b</color>
+    <color name="back">#81b12d</color>
+    <color name="toolbar">#78a589</color>
+    <color name="green1">#c2db97</color>
+    <color name="yellow">#fdd401</color>
+    <color name="hhh">#25fa55</color>
+    <color name="colorPrimary">#f2f2f2</color>
+    <color name="colorPrimaryDark">#3c3f41</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="u1">#cccccc</color>
+    <color name="word_color">#999999</color>
+    <color name="color333">#333333</color>
+    <color name="colorBbb">#bbbbbb</color>
+    <color name="colorCcc">#cccccc</color>
+    <color name="colorF2f2f2">#f3efea</color>
+    <color name="colorFff">#ffffff</color>
+    <color name="main_txt_color">#ff624d</color>
+    <color name="main_divide_color">#20b77946</color>
+    <color name="bt_black_color">#33040404</color>
+    <color name="blue1">#91c6c6</color>
+    <color name="blue2">#4f9c9c</color>
+</resources>

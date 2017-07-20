@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorCcc"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <com.aojing.util.NoScrollViewPager
+                android:background="@color/colorFff"
+                android:id="@+id/viewPager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="61dp"
+                />
+
+            <android.support.design.widget.TabLayout
+                android:layout_alignParentBottom="true"
+                android:id="@+id/tabLayout"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@color/colorFff"
+                app:tabIndicatorColor="@color/colorFff"
+                app:tabIndicatorHeight="8dp"
+                app:tabTextColor="@color/blue2"
+                app:tabSelectedTextColor="@color/blue2"
+                app:tabMode="fixed"
+                app:tabBackground="@color/colorFff"
+                app:tabTextAppearance="@style/MyTabLayoutTextAppearance"
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

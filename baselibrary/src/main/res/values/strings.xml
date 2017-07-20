@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jfxm">交费项目</string>
+    <string name="czje">充值金额</string>
+    <string name="xzzffs">下一步，选择支付方式</string>
+    <string name="gzf">共支付：</string>
+    <string name="btn_state_normal">按下 录音</string>
+    <string name="btn_state_recordinng">松手 发送</string>
+    <string name="dialog_recording">手指上滑 取消发送</string>
+    <string name="dialog_cancel">手指松开 取消发送</string>
+    <string name="dialog_too_short">录音时间过短!</string>
+    <string name="community_broadcast_content">#维护通告#亲爱的幸福里业主们，3栋1单元门前的路灯已经修好了！感谢维修工的辛勤付出~</string>
+
+    <string name="confirm_pay">确认支付</string>
+    <string name="menu_settings">Settings</string>
+    <string name="entryTitle">接入方式选择</string>
+    <string name="apk">apk接入</string>
+    <string name="jar">银联sdk接入</string>
+    <string name="payBYAPK">APK接入</string>
+    <string name="payBYJAR">JAR接入</string>
+
+    <string name="login">登录</string>
+    <string name="no_login_pay">免登录快捷交费</string>
+    <string name="new_register">新用户注册</string>
+    <string name="register">注册</string>
+    <string name="phoneNo">手机号</string>
+    <string name="login_password">登录密码</string>
+    <string name="click_here_input">点此输入</string>
+    <string name="yuan">元</string>
+    <string name="quick_pay">快捷交费</string>
+    <string name="my_property">我的房产</string>
+    <string name="add_property">添加房产</string>
+    <string name="you_applying_bind">您正在申请绑定</string>
+    <string name="i_have_no_property">什么？我竟然还没有房</string>
+    <string name="add_property_now">马上添加房产</string>
+    <string name="back">返回</string>
+    <string name="copy_right">回家啦 v1.0.0</string>
+    <string name="company">南宁奥晶科技有限责任公司</string>
+    <string name="copy_right_sign">copyright 2017</string>
+    <string name="me">我</string>
+    <string name="property">房产</string>
+    <string name="zfb">支付宝支付</string>
+    <string name="wx">微信支付</string>
+    <string name="next">下一步</string>
+    <string name="uppay">银联支付</string>
+    <string name="bind_property">绑定房产</string>
+    <string name="choose_project_you_in">选择您房产所在的社区：</string>
+    <string name="click_choose_project">点此选择社区</string>
+    <string name="click_choose_pay_item">点此选择交费项</string>
+
+    <string name="property_bill">房产费用</string>
+    <string name="bill_note">费用账单</string>
+    <string name="pay_now">立即交费</string>
+    <string name="pay">缴费</string>
+    <string name="pay_for_others">帮别人缴费</string>
+    <string name="get_send_thing">收发快递</string>
+    <string name="take_car_for_nothing">顺风车</string>
+    <string name="take_care_child_or_pet">儿童/宠物托管</string>
+    <string name="repair_at_home">上门维修</string>
+    <string name="clean_house">家政清洁</string>
+    <string name="freedom_change">闲置交换</string>
+
+    <string name="pay_history">缴费记录</string>
+    <string name="change">切换</string>
+    <string name="community">社区</string>
+    <string name="message">消息</string>
+    <string name="discover">发现</string>
+    <string name="my_group">我的小组</string>
+    <string name="my_repair">我的报修</string>
+    <string name="input_comment">请输入评论</string>
+    <string name="send_repair">发起报修</string>
+    <string name="pay_property">交费房产</string>
+    <string name="pay_record">交费记录</string>
+    <string name="zfb_sign">推荐有支付宝的用户使用</string>
+    <string name="wx_sign">推荐有微信的用户使用</string>
+    <string name="uppay_sign">有银联卡即可，不用开通网银</string>
+    <string name="click_choose_pay_way">点此选择支付方式</string>
+    <string name="please_choose_pay_way">请选择支付方式：</string>
+    <string name="quick_pay_money">交费金额：</string>
+    <string name="click_to_input_pay_money">点此输入交费金额</string>
+    <string name="property_worker">物业员工</string>
+    <string name="click_star_to_mark">点击星星选择分数</string>
+    <string name="manage_zoom">负责区域</string>
+    <string name="server_quality">服务质量</string>
+    <string name="your_rating_last_time">您上次打分</string>
+    <string name="contact_property">联系物业</string>
+    <string name="property_phone">物业电话</string>
+    <string name="call_this_no">拨打该号</string>
+    <string name="ask_repair">投诉报修</string>
+    <string name="park_search">停车查询</string>
+    <string name="send_bind_apply">提交绑定申请</string>
+    <string name="input_check_info">请填写验证信息：</string>
+    <string name="property_owner_name">业主姓名</string>
+    <string name="is_property_owner">是否业主</string>
+    <string name="property_owner_phone">业主手机</string>
+    <string name="your_name">您的姓名</string>
+    <string name="send">发送</string>
+    <string name="repair_tag">有问题找物业~\n投诉、报修、邻里沟通、哪里菜便宜\n都可以~</string>
+    <string name="exit_login">退出登录</string>
+
+    <string name="load_more">加载更多~</string>
+
+    <string name="text_btn_init">百度账号绑定</string>
+    <string name="text_btn_init1">更换百度账号</string>
+    <string name="text_btn_on_push">打开Push</string>
+    <string name="text_btn_off_push">关闭Push</string>
+    <string name="log_tip">信息</string>
+    <string name="clear_log">清除信息</string>
+    <string name="text_btn_rich">富媒体消息</string>
+    <string name="text_btn_initAK">无账号绑定</string>
+    <string name="text_btn_setTags">设置标签</string>
+    <string name="text_btn_delTags">删除标签</string>
+    <string name="text_btn_senior">高级功能</string>
+    <string name="text_btn_set">设置</string>
+    <string name="text_media_title">富媒体消息列表</string>
+    <string name="media">Rich Media</string>
+    <string name="custom_text_hint">用户自定义行为打开的Activity</string>
+    <string name="tags_hint">请输入多个标签，以英文逗号隔开</string>
+    <string name="text_btn_aidl">轻应用AIDL</string>
+    <string name="text_btn_off_lightapp">关闭所有轻消息</string>
+    <string name="text_btn_off_app_msg">加入黑名单</string>
+    <string name="text_btn_unread_only_msg">只获取未读消息</string>
+    <string name="text_btn_on_shortcut">生成快捷图标</string>
+    <string name="app_name">物业App</string>
+    <string name="text_btn_showTags">列举标签</string>
+    <string name="text_btn_unbind">解绑</string>
+    <string name="text_btn_setunDisturb">免打扰时段</string>
+    <string name="text_toast">设置成功，免打扰时段为：\n%1$s - %2$s</string>
+    <string name="text_about">百度Push Android SDK 5.3.0\n\n更新时间：2016年11月8日\nChange Log：\nAndroid N新通道设计，提高Android N消息到达率；\n增强通知安全校验，防止消息伪造和重放攻击，提高安全性；\n更新NotificationBuilder，SDK最低支持的api从9升级到11；\n精简重构部分代码，降低代码复杂度，减小jar包体积；\n修复已知bug，进一步提高稳定性。</string>
+    <string name="text_help">百度hi官方技术讨论群：1405944\nQQ群：324533810（可加）\n云推送微信公众账号：云推送（微信号：baidu-push）\n</string>
+    <string name="checkNo">验证码</string>
+    <string name="private_book">隐私协议</string>
+    <string name="private_book_content">
+
+以下是本物业管理平台及其运营公司奥晶科技有限责任公司（以下合称“本平台”）的隐私规则条款。\n
+
+\u3000\u3000您成为本平台用户前务必仔细阅读本隐私条款并同意本隐私条款。作为本平台服务的正常操作程序的一部分，本平台收集、使用并（在一些情况下）向第三方披露有关您的资料。本隐私条款作为本平台服务协议的附件，在您注册成为本平台用户后立即生效，并对您及本平台产生约束力。\n
+
+一、用户身份限制\n
+
+\u3000\u3000未成年人（年龄18周岁以下人士）、限制行为能力人、中国（包括港澳台地区）以外地区人士及自然人以外的组织无资格注册成为本平台用户并使用本平台的服务，本平台要求未成年人、限制行为能力人、中国（包括港澳台地区）以外地区人士及各类组织不要向本平台提交任何个人资料。\n
+
+二、涉及的个人资料\n
+
+\u3000\u3000本平台收集个人资料的主要目的在于向您提供一个顺利、有效和度身订造的交易经历。本平台仅收集本平台认为就此目的及达成该目的所必须的关于您的个人资料。\n
+
+\u3000\u3000本平台可能自公开及私人资料来源收集您的额外资料，以更好地了解本平台用户，并为其度身订造本平台服务、解决争议并有助确保在网站进行交易的安全性。\n
+
+\u3000\u3000本平台按照您在本平台网址上的行为自动追踪关于您的某些资料。本平台利用这些资料进行有关本平台之用户的人口统计、兴趣及行为的内部研究，以更好地了解您以便向您和本平台的用户社区提供更好的服务。\n
+
+\u3000\u3000本平台在本平台的某些网页上使用诸如“Cookies”的资料收集装置。“Cookies”是设置在您的硬盘上的小档案，以协助本平台为您提供度身订造的服务。本平台亦提供某些只能通过使用“Cookies”才可得到的功能。本平台还利用“Cookies”使您能够在某段期间内减少输入密码的次数。“Cookies”还可以协助本平台提供专门针对您的兴趣而提供的资料。\n
+
+\u3000\u3000如果您将个人通讯信息（例如：手机短信、电邮或信件）交付给本平台，或如果其他用户或第三方向本平台发出关于您在本平台上的活动或登录事项的通讯信息，本平台可以将这些资料收集在您的专门档案中。\n
+
+三、本平台对您的资料的使用\n
+
+\u3000\u3000您同意本平台可使用关于您的个人资料（包括但不限于本平台持有的有关您的档案中的资料，及本平台从您目前及以前在本平台上的活动所获取的其他资料）以解决争议、对纠纷进行调停、有助于确保在本平台进行安全交易，并执行本平台的用户协议。本平台有时候可能调查多个用户以识别问题或解决争议，特别是本平台可审查您的资料以区分使用多个用户名或别名的用户。 为限制在网站上的欺诈、非法或其他刑事犯罪活动，使本平台免受其害，您同意本平台可通过人工或自动程序对您的个人资料进行评价。\n
+
+\u3000\u3000您同意本平台可以使用您的个人资料以改进本平台的推广和促销工作、分析网站的使用率、改善本平台的内容和产品推广形式，并使本平台的网站内容、设计和服务更能符合用户的要求。这些使用能改善本平台的网页，以调整本平台的网页使其更能符合您的需求，从而使您在使用本平台服务时得到更为顺利、有效、安全及度身订造的交易体验。\n
+
+\u3000\u3000您同意本平台利用您的资料与您联络并（在某些情况下）向您传递针对您的兴趣而提供的信息，例如：有针对性的广告条、行政管理方面的通知、产品提供以及有关您使用本平台的通讯。您接受服务协议和隐私条款即为明示同意收取这些资料。\n
+
+四、本平台对您的资料的修改或删除\n
+
+\u3000\u3000您可以授权本平台帮助您修改您在本平台填写的一切个人资料。如您违反服务协议等本平台规则或法律规定，本平台有权经电子邮件告知后在网站数据库中删除您的个人资料、关闭账户或者限制您使用本平台。\n
+
+\u3000\u3000网站有权根据实际审核结果在不通知您的情况下对您所填写的与事实不符的资料进行修正或更改。\n
+
+五、本平台对您的资料的披露\n
+
+\u3000\u3000本平台采用行业标准惯例以保护您的个人资料，但鉴于技术限制，本平台不能确保您的全部私人通讯及其他个人资料不会通过本隐私条款中未列明的途径泄露出去，对此本平台不承担任何责任。\n
+
+\u3000\u3000本平台有权根据有关法律和监管要求，本平台风险控制要求以及相关协议要求向司法机关等政府部门、社会组织或团体、其他第三方服务或合作机构提供您的个人资料。在您未能按照与本平台签订的服务协议、居间协议或者与本平台企业用户签订的借款（担保）协议的约定履行自己应尽的义务时，本平台有权根据自己的判断或者与该笔交易有关的其他用户的请求披露您的个人资料，并作出评论。\n
+
+六、您对其他用户的资料的使用\n
+
+\u3000\u3000在本平台提供的交易活动中，您无权要求本平台提供其他用户的个人资料，除非符合以下条件：\n
+
+\u3000\u3000（1）您已向法院起诉其他用户的在本平台活动中的违约行为；\n
+
+\u3000\u3000（2）本平台被吊销营业执照、解散、清算、宣告破产或者其他有碍于您收回借款本息的情形。\n
+
+七、电子邮件\n
+
+\u3000\u3000您不得使用本平台提供的服务或其他电子邮件转发服务发送垃圾邮件或其他可能影响本平台系统运行或违反本平台的用户协议或隐私条款的内容。\n
+
+\u3000\u3000如果您利用本平台的服务向没有在本平台内注册的电子邮件地址发出电子邮件,本平台除了利用该电子邮件地址发出您的电子邮件之外将不作任何其他用途。本平台不会出租或出售这些电子邮件地址。本平台不会永久储存电子邮件信息或电子邮件地址。\n
+
+八、密码的安全性\n
+
+\u3000\u3000您须对使用您的用户名和密码所采取的一切行为负责。因此，本平台建议您不要向任何第三方披露您在本平台的用户名和密码。\n
+
+九、规则修改\n
+
+\u3000\u3000本平台可能不时按照您的意见和本平台的需要修改本隐私条款，以准确地反映本平台的资料收集及披露惯例。本条款的所有修改，在本平台公布有关修改内容后自动生效或在该等条款指定的日期生效。\n
+
+\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000奥晶科技物业平台\n
+
+\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000 2017年4月20日\n
+    </string>
+    <string name="global_scheme" >module</string>
+</resources>

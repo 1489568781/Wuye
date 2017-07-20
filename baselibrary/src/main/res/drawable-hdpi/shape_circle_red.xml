@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+android:shape="oval"
+
+    >
+    <solid android:color="@color/bg_pay_record_date"
+        />
+
+    <padding
+        android:left="2dp"
+        android:top="1dp"
+        android:right="2dp"
+        android:bottom="1dp"
+        />
+ <size
+     android:width="25dp"
+     android:height="25dp"
+     />
+
+    <stroke android:color="@color/colorFff"
+        android:width="2px"
+
+        />
+</shape>
