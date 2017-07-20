@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Wuye.iml" filepath="$PROJECT_DIR$/Wuye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alipay_module/alipay_module.iml" filepath="$PROJECT_DIR$/alipay_module/alipay_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baselibrary/baselibrary.iml" filepath="$PROJECT_DIR$/baselibrary/baselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login_register_module/login_register_module.iml" filepath="$PROJECT_DIR$/login_register_module/login_register_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main_module/main_module.iml" filepath="$PROJECT_DIR$/main_module/main_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+    </modules>
+  </component>
+</project>

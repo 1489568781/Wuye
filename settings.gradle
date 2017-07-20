@@ -1,0 +1,1 @@
+include ':app', ':baselibrary', ':alipay_module', ':myapplication', ':login_register_module', ':main_module'
